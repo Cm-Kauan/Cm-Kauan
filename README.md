@@ -70,21 +70,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## `>_` PAINEL DE INTRUSÃO // STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Cm-Kauan&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=9d00ff&text_color=c9d1d9&border_color=00ff41&hide_border=false&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cm-Kauan&theme=dark&background=0d1117&stroke=00ff41&ring=9d00ff&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=c9d1d9&border=00ff41" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cm-Kauan&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&hide_border=false" width="49%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cm-Kauan&theme=react-dark&bg_color=0d1117&color=00ff41&line=9d00ff&point=ffffff&hide_border=true" width="100%" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
 ## `>_` REDE NEURAL // MONITOR DE ATIVIDADE
 
 ```ansi
@@ -120,59 +105,86 @@
 
 ```ansi
 [LOG] Escaneando repositórios...
-[OK ] 2 operações ativas encontradas
+[OK ] 4 operações ativas encontradas
 ```
 
 <table align="center" cellspacing="15" cellpadding="0" border="0">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Cm-Kauan/SEU-REPOSITORIO-1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cm-Kauan&repo=SEU-REPOSITORIO-1&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=9d00ff&text_color=c9d1d9&border_color=00ff41" width="100%" />
+      <a href="https://github.com/Cm-Kauan/Clinica-de-Pacientes">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cm-Kauan&repo=Clinica-de-Pacientes&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=9d00ff&text_color=c9d1d9&border_color=00ff41" width="100%" />
       </a>
       <br>
-      <code>&gt; OPERAÇÃO_01 :: descrição curta do projeto aqui</code>
+      <code>&gt; OPERAÇÃO_01 :: sistema de gestão de pacientes em Java</code>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Cm-Kauan/SEU-REPOSITORIO-2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cm-Kauan&repo=SEU-REPOSITORIO-2&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=9d00ff&text_color=c9d1d9&border_color=00ff41" width="100%" />
+      <a href="https://github.com/Cm-Kauan/Agenda-Python">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cm-Kauan&repo=Agenda-Python&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=9d00ff&text_color=c9d1d9&border_color=00ff41" width="100%" />
       </a>
       <br>
-      <code>&gt; OPERAÇÃO_02 :: descrição curta do projeto aqui</code>
+      <code>&gt; OPERAÇÃO_02 :: agenda/agendamento full-stack</code>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Cm-Kauan/SEU-REPOSITORIO-3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cm-Kauan&repo=SEU-REPOSITORIO-3&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=9d00ff&text_color=c9d1d9&border_color=00ff41" width="100%" />
+      <a href="https://github.com/Cm-Kauan/Estudos-Java">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cm-Kauan&repo=Estudos-Java&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=9d00ff&text_color=c9d1d9&border_color=00ff41" width="100%" />
       </a>
       <br>
-      <code>&gt; OPERAÇÃO_03 :: descrição curta do projeto aqui</code>
+      <code>&gt; OPERAÇÃO_03 :: laboratório de estudos em Java</code>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Cm-Kauan/SEU-REPOSITORIO-4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cm-Kauan&repo=SEU-REPOSITORIO-4&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=9d00ff&text_color=c9d1d9&border_color=00ff41" width="100%" />
+      <a href="https://github.com/Cm-Kauan/Calculado-Java">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cm-Kauan&repo=Calculado-Java&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=9d00ff&text_color=c9d1d9&border_color=00ff41" width="100%" />
       </a>
       <br>
-      <code>&gt; OPERAÇÃO_04 :: descrição curta do projeto aqui</code>
+      <code>&gt; OPERAÇÃO_04 :: calculadora em Java</code>
     </td>
   </tr>
 </table>
 
 <br>
 
-> `[!] TIP:` Troque `SEU-REPOSITORIO-1` a `SEU-REPOSITORIO-4` pelos nomes exatos dos seus repositórios em destaque (pode remover linhas da tabela se tiver menos de 4).
+> `[!] NOTA:` Repositórios privados (ex: `Portifolio`, `Gerenciador`) não aparecem aqui — o widget de pin só funciona com repositórios públicos. Torne um público se quiser destacá-lo.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## `>_` CANAIS SEGUROS // CRIPTOGRAFADOS
 
-<div align="center">
+```ansi
+[LOG] Estabelecendo túneis criptografados...
+[OK ] 3 canais disponíveis — selecione um ponto de contato
+```
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CANAL_CRIPTOGRAFADO-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=000000)](https://linkedin.com/in/SEU-LINKEDIN)
-[![Discord](https://img.shields.io/badge/DISCORD-FREQUÊNCIA_ABERTA-0d0d0d?style=for-the-badge&logo=discord&logoColor=9d00ff&labelColor=000000)](https://discord.com/users/SEU-DISCORD)
-[![Gmail](https://img.shields.io/badge/EMAIL-TRANSMISSÃO_SEGURA-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=000000)](mailto:kauancamargo099@gmail.com)
+<table align="center" cellspacing="12" cellpadding="0" border="0">
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/SEU-LINKEDIN">
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,100:00ff41&height=90&width=280&text=LINKEDIN&fontSize=26&fontColor=00ff41&fontAlignY=45&animation=twinkling" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/CANAL-CRIPTOGRAFADO-0d0d0d?style=flat-square&logo=linkedin&logoColor=00ff41&labelColor=000000" />
+    </td>
+    <td align="center">
+      <a href="https://discord.com/users/SEU-DISCORD">
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,100:9d00ff&height=90&width=280&text=DISCORD&fontSize=26&fontColor=9d00ff&fontAlignY=45&animation=twinkling" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/FREQUÊNCIA-ABERTA-0d0d0d?style=flat-square&logo=discord&logoColor=9d00ff&labelColor=000000" />
+    </td>
+    <td align="center">
+      <a href="mailto:kauancamargo099@gmail.com">
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,100:00ff41&height=90&width=280&text=E-MAIL&fontSize=26&fontColor=00ff41&fontAlignY=45&animation=twinkling" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/TRANSMISSÃO-SEGURA-0d0d0d?style=flat-square&logo=gmail&logoColor=00ff41&labelColor=000000" />
+    </td>
+  </tr>
+</table>
 
-</div>
+<br>
+
+> `[!] TIP:` Troque `SEU-LINKEDIN` e `SEU-DISCORD` pelos seus dados reais assim que quiser ativar os canais.
 
 <div align="center">
 

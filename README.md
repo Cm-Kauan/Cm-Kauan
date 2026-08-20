@@ -105,8 +105,6 @@
 
 </div>
 
-> `[!] NOTA:` Esta animação é gerada automaticamente por uma GitHub Action (`.github/workflows/snake.yml`) a partir do seu histórico real de commits. Ela roda sozinha após o primeiro push/merge no branch `main` — o snake "devora" seus quadrados de contribuição.
-
 <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/neon-divider.svg" width="100%" alt="divider" />
 
 <p align="center">
@@ -166,8 +164,6 @@
 </table>
 
 <br>
-
-> `[!] NOTA:` Repositórios privados (ex: `Portifolio`, `Gerenciador`) não aparecem aqui — o widget de pin só funciona com repositórios públicos. Torne um público se quiser destacá-lo.
 
 <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/neon-divider.svg" width="100%" alt="divider" />
 

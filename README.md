@@ -178,11 +178,11 @@
       <img src="https://img.shields.io/badge/CANAL-CRIPTOGRAFADO-0d0d0d?style=flat-square&logo=linkedin&logoColor=00ff41&labelColor=000000" />
     </td>
     <td align="center">
-      <a href="https://discord.com/users/SEU-DISCORD">
+      <a href="https://discord.com/users/god.6986">
         <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,100:9d00ff&height=90&width=280&text=DISCORD&fontSize=26&fontColor=9d00ff&fontAlignY=45&animation=twinkling" />
       </a>
       <br>
-      <img src="https://img.shields.io/badge/FREQUÊNCIA-ABERTA-0d0d0d?style=flat-square&logo=discord&logoColor=9d00ff&labelColor=000000" />
+      <img src="https://img.shields.io/badge/god.6986-0d0d0d?style=flat-square&logo=discord&logoColor=9d00ff&labelColor=000000" />
     </td>
     <td align="center">
       <a href="mailto:kauancamargo099@gmail.com">
@@ -195,8 +195,6 @@
 </table>
 
 <br>
-
-> `[!] TIP:` Troque `SEU-DISCORD` pelo seu usuário/ID real do Discord assim que quiser ativar esse canal (o LinkedIn já está ativo).
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=600&color=9D00FF&center=true&vCenter=true&width=600&lines=Aguardando+resposta+do+operador...;Uplink+seguro+estabelecido...;Todos+os+sistemas+nominais." alt="Typing SVG" />
 

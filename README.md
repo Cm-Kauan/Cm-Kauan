@@ -39,7 +39,9 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## `>_` SOBRE MIM
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:00ff41&height=55&text=%3E_%20SOBRE%20MIM&fontSize=20&fontColor=00ff41&animation=fadeIn" width="100%" />
+</p>
 
 - 🕶️ Operativo digital construindo sistemas, invadindo bugs e libertando código open-source.
 - 🛰️ Atualmente infiltrado em projetos **Web / Backend / Automação**.
@@ -49,7 +51,9 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## `>_` FERRAMENTAS DO SISTEMA
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:9d00ff&height=55&text=%3E_%20FERRAMENTAS%20DO%20SISTEMA&fontSize=20&fontColor=9d00ff&animation=fadeIn" width="100%" />
+</p>
 
 <div align="center">
 
@@ -70,7 +74,9 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## `>_` REDE NEURAL // MONITOR DE ATIVIDADE
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:00ff41&height=55&text=%3E_%20REDE%20NEURAL%20%2F%2F%20MONITOR%20DE%20ATIVIDADE&fontSize=18&fontColor=00ff41&animation=fadeIn" width="100%" />
+</p>
 
 ```ansi
 [LOG] Rastreando padrão de commits nos últimos 365 dias...
@@ -91,7 +97,9 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## `>_` TROFÉUS DE INVASÃO
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:9d00ff&height=55&text=%3E_%20TROFÉUS%20DE%20INVASÃO&fontSize=20&fontColor=9d00ff&animation=fadeIn" width="100%" />
+</p>
 
 <div align="center">
 
@@ -101,7 +109,9 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## `>_` MISSÕES // OPERAÇÕES ATIVAS
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:00ff41&height=55&text=%3E_%20MISSÕES%20%2F%2F%20OPERAÇÕES%20ATIVAS&fontSize=18&fontColor=00ff41&animation=fadeIn" width="100%" />
+</p>
 
 ```ansi
 [LOG] Escaneando repositórios...
@@ -149,7 +159,9 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## `>_` CANAIS SEGUROS // CRIPTOGRAFADOS
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:9d00ff&height=55&text=%3E_%20CANAIS%20SEGUROS%20%2F%2F%20CRIPTOGRAFADOS&fontSize=18&fontColor=9d00ff&animation=fadeIn" width="100%" />
+</p>
 
 ```ansi
 [LOG] Estabelecendo túneis criptografados...
@@ -159,7 +171,7 @@
 <table align="center" cellspacing="12" cellpadding="0" border="0">
   <tr>
     <td align="center">
-      <a href="https://linkedin.com/in/SEU-LINKEDIN">
+      <a href="https://www.linkedin.com/in/kauan-camargo/">
         <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,100:00ff41&height=90&width=280&text=LINKEDIN&fontSize=26&fontColor=00ff41&fontAlignY=45&animation=twinkling" />
       </a>
       <br>
@@ -184,9 +196,13 @@
 
 <br>
 
-> `[!] TIP:` Troque `SEU-LINKEDIN` e `SEU-DISCORD` pelos seus dados reais assim que quiser ativar os canais.
+> `[!] TIP:` Troque `SEU-DISCORD` pelo seu usuário/ID real do Discord assim que quiser ativar esse canal (o LinkedIn já está ativo).
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=600&color=9D00FF&center=true&vCenter=true&width=600&lines=Aguardando+resposta+do+operador...;Uplink+seguro+estabelecido...;Todos+os+sistemas+nominais." alt="Typing SVG" />
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/matrix-rain.svg" width="100%" alt="matrix rain" />
 
 ```ansi
 [sys@ctOS ~]$ connection --terminate

@@ -16,9 +16,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Booting+ctOS+Override...;Bypassing+Firewall...;Identity+Confirmed%3A+Cm-Kauan;Welcome+to+the+Network%2C+Operator." alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Cm-Kauan&color=00ff41&style=flat-square&label=CONNECTIONS+TRACED)
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=flat-square&labelColor=0d0d0d)
-![Access](https://img.shields.io/badge/ACCESS-LEVEL_5-9d00ff?style=flat-square&labelColor=0d0d0d)
+![Profile Views](https://komarev.com/ghpvc/?username=Cm-Kauan&color=00ff41&style=for-the-badge&label=CONNECTIONS+TRACED&labelColor=0d0d0d)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=0d0d0d)
+![Access](https://img.shields.io/badge/ACCESS-LEVEL_5-9d00ff?style=for-the-badge&labelColor=0d0d0d)
 
 </div>
 
@@ -32,15 +32,21 @@
 > AFFILIATION....: DedSec Collective
 > STATUS.........: [ CONNECTED ]
 > CLEARANCE......: ROOT
+[sys@ctOS ~]$ neofetch --hacker
+> OS.............: DedSec_OS v3.1 (ctOS override)
+> SHELL..........: ctos-bash
+> UPTIME.........: 24/7 :: sempre online
+> THREAT LEVEL...: ██████████ MÁXIMO
+> LANGUAGES......: JavaScript · TypeScript · Python · Java
 [sys@ctOS ~]$ _
 ```
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/neon-divider.svg" width="100%" alt="divider" />
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:00ff41&height=55&text=%3E_%20SOBRE%20MIM&fontSize=20&fontColor=00ff41&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,60:00ff41,100:9d00ff&height=60&text=%3E_%20SOBRE%20MIM&fontSize=20&fontColor=ffffff&stroke=00ff41&strokeWidth=1&animation=fadeIn" width="100%" />
 </p>
 
 - 🕶️ Operativo digital construindo sistemas, invadindo bugs e libertando código open-source.
@@ -49,10 +55,10 @@
 - 📡 Sinal aberto para colaborações e novas operações.
 - ⚡ *"We are DedSec. We fight to keep the internet free."*
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/neon-divider.svg" width="100%" alt="divider" />
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:9d00ff&height=55&text=%3E_%20FERRAMENTAS%20DO%20SISTEMA&fontSize=20&fontColor=9d00ff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,60:9d00ff,100:00ff41&height=60&text=%3E_%20FERRAMENTAS%20DO%20SISTEMA&fontSize=20&fontColor=ffffff&stroke=9d00ff&strokeWidth=1&animation=fadeIn" width="100%" />
 </p>
 
 <div align="center">
@@ -70,12 +76,18 @@
 ![MongoDB](https://img.shields.io/badge/MONGODB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=9d00ff)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=00ff41)
 
+<br><br>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,react,html,css,git,linux,docker,mongodb,postgres&theme=dark" />
+</a>
+
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/neon-divider.svg" width="100%" alt="divider" />
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:00ff41&height=55&text=%3E_%20REDE%20NEURAL%20%2F%2F%20MONITOR%20DE%20ATIVIDADE&fontSize=18&fontColor=00ff41&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,60:00ff41,100:9d00ff&height=60&text=%3E_%20REDE%20NEURAL%20%2F%2F%20MONITOR%20DE%20ATIVIDADE&fontSize=20&fontColor=ffffff&stroke=00ff41&strokeWidth=1&animation=fadeIn" width="100%" />
 </p>
 
 ```ansi
@@ -95,22 +107,22 @@
 
 > `[!] NOTA:` Esta animação é gerada automaticamente por uma GitHub Action (`.github/workflows/snake.yml`) a partir do seu histórico real de commits. Ela roda sozinha após o primeiro push/merge no branch `main` — o snake "devora" seus quadrados de contribuição.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/neon-divider.svg" width="100%" alt="divider" />
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:9d00ff&height=55&text=%3E_%20TROFÉUS%20DE%20INVASÃO&fontSize=20&fontColor=9d00ff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,60:9d00ff,100:00ff41&height=60&text=%3E_%20TROFÉUS%20DE%20INVASÃO&fontSize=20&fontColor=ffffff&stroke=9d00ff&strokeWidth=1&animation=fadeIn" width="100%" />
 </p>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Cm-Kauan&theme=dracula&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Cm-Kauan&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/neon-divider.svg" width="100%" alt="divider" />
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:00ff41&height=55&text=%3E_%20MISSÕES%20%2F%2F%20OPERAÇÕES%20ATIVAS&fontSize=18&fontColor=00ff41&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,60:00ff41,100:9d00ff&height=60&text=%3E_%20MISSÕES%20%2F%2F%20OPERAÇÕES%20ATIVAS&fontSize=20&fontColor=ffffff&stroke=00ff41&strokeWidth=1&animation=fadeIn" width="100%" />
 </p>
 
 ```ansi
@@ -157,10 +169,10 @@
 
 > `[!] NOTA:` Repositórios privados (ex: `Portifolio`, `Gerenciador`) não aparecem aqui — o widget de pin só funciona com repositórios públicos. Torne um público se quiser destacá-lo.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/neon-divider.svg" width="100%" alt="divider" />
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:9d00ff&height=55&text=%3E_%20CANAIS%20SEGUROS%20%2F%2F%20CRIPTOGRAFADOS&fontSize=18&fontColor=9d00ff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,60:9d00ff,100:00ff41&height=60&text=%3E_%20CANAIS%20SEGUROS%20%2F%2F%20CRIPTOGRAFADOS&fontSize=20&fontColor=ffffff&stroke=9d00ff&strokeWidth=1&animation=fadeIn" width="100%" />
 </p>
 
 ```ansi
@@ -175,21 +187,21 @@
         <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,100:00ff41&height=90&width=280&text=LINKEDIN&fontSize=26&fontColor=00ff41&fontAlignY=45&animation=twinkling" />
       </a>
       <br>
-      <img src="https://img.shields.io/badge/CANAL-CRIPTOGRAFADO-0d0d0d?style=flat-square&logo=linkedin&logoColor=00ff41&labelColor=000000" />
+      <img src="https://img.shields.io/badge/CANAL-CRIPTOGRAFADO-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=000000" />
     </td>
     <td align="center">
       <a href="https://discord.com/users/god.6986">
         <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,100:9d00ff&height=90&width=280&text=DISCORD&fontSize=26&fontColor=9d00ff&fontAlignY=45&animation=twinkling" />
       </a>
       <br>
-      <img src="https://img.shields.io/badge/god.6986-0d0d0d?style=flat-square&logo=discord&logoColor=9d00ff&labelColor=000000" />
+      <img src="https://img.shields.io/badge/god.6986-0d0d0d?style=for-the-badge&logo=discord&logoColor=9d00ff&labelColor=000000" />
     </td>
     <td align="center">
       <a href="mailto:kauancamargo099@gmail.com">
         <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,100:00ff41&height=90&width=280&text=E-MAIL&fontSize=26&fontColor=00ff41&fontAlignY=45&animation=twinkling" />
       </a>
       <br>
-      <img src="https://img.shields.io/badge/TRANSMISSÃO-SEGURA-0d0d0d?style=flat-square&logo=gmail&logoColor=00ff41&labelColor=000000" />
+      <img src="https://img.shields.io/badge/TRANSMISSÃO-SEGURA-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=000000" />
     </td>
   </tr>
 </table>
@@ -210,7 +222,7 @@
 > GOODBYE, OPERATIVE.
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/neon-divider.svg" width="100%" alt="divider" />
 
 **"Não somos indivíduos. Somos uma ideia."** — DedSec
 

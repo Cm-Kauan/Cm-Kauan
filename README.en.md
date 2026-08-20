@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="README.md"><b>🇧🇷 Português</b></a> • <a href="README.en.md">🇺🇸 English</a>
+<a href="README.md">🇧🇷 Português</a> • <a href="README.en.md"><b>🇺🇸 English</b></a>
 
 <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/matrix-rain.svg" width="100%" alt="matrix rain" />
 
@@ -21,17 +21,17 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Cm-Kauan&color=00ff41&style=for-the-badge&label=CONNECTIONS+TRACED&labelColor=0d0d0d)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=0d0d0d)
 ![Access](https://img.shields.io/badge/ACCESS-LEVEL_5-9d00ff?style=for-the-badge&labelColor=0d0d0d)
-![Wanted](https://img.shields.io/badge/PROCURADO_PELA_ctOS-BOUNTY%3A_∞_COMMITS-9d00ff?style=for-the-badge&labelColor=0d0d0d)
+![Wanted](https://img.shields.io/badge/WANTED_BY_ctOS-BOUNTY%3A_∞_COMMITS-9d00ff?style=for-the-badge&labelColor=0d0d0d)
 
-![Last Commit](https://img.shields.io/github/last-commit/Cm-Kauan/Cm-Kauan?style=for-the-badge&label=ÚLTIMA%20INTRUSÃO&color=00ff41&labelColor=0d0d0d)
-![Top Language](https://img.shields.io/github/languages/top/Cm-Kauan/Cm-Kauan?style=for-the-badge&label=LINGUAGEM%20PRIMÁRIA&color=9d00ff&labelColor=0d0d0d)
+![Last Commit](https://img.shields.io/github/last-commit/Cm-Kauan/Cm-Kauan?style=for-the-badge&label=LAST%20INTRUSION&color=00ff41&labelColor=0d0d0d)
+![Top Language](https://img.shields.io/github/languages/top/Cm-Kauan/Cm-Kauan?style=for-the-badge&label=PRIMARY%20LANGUAGE&color=9d00ff&labelColor=0d0d0d)
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/boot-sequence.svg" width="100%" alt="boot sequence" />
+<img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/boot-sequence-en.svg" width="100%" alt="boot sequence" />
 </div>
 
 <br>
@@ -39,19 +39,19 @@
 <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/neon-divider.svg" width="100%" alt="divider" />
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,60:00ff41,100:9d00ff&height=60&text=%3E_%20SOBRE%20MIM&fontSize=20&fontColor=ffffff&stroke=00ff41&strokeWidth=1&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,60:00ff41,100:9d00ff&height=60&text=%3E_%20ABOUT%20ME&fontSize=20&fontColor=ffffff&stroke=00ff41&strokeWidth=1&animation=fadeIn" width="100%" />
 </p>
 
-- 🕶️ Operativo digital construindo sistemas, invadindo bugs e libertando código open-source.
-- 🛰️ Atualmente infiltrado em projetos **Web / Backend / Automação**.
-- 🧠 Aprendendo novos exploits e frameworks continuamente.
-- 📡 Sinal aberto para colaborações e novas operações.
+- 🕶️ Digital operative building systems, hacking bugs and freeing open-source code.
+- 🛰️ Currently infiltrated in **Web / Backend / Automation** projects.
+- 🧠 Constantly learning new exploits and frameworks.
+- 📡 Open signal for collaborations and new operations.
 - ⚡ *"We are DedSec. We fight to keep the internet free."*
 
 <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/neon-divider.svg" width="100%" alt="divider" />
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,60:9d00ff,100:00ff41&height=60&text=%3E_%20FERRAMENTAS%20DO%20SISTEMA&fontSize=20&fontColor=ffffff&stroke=9d00ff&strokeWidth=1&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,60:9d00ff,100:00ff41&height=60&text=%3E_%20SYSTEM%20TOOLS&fontSize=20&fontColor=ffffff&stroke=9d00ff&strokeWidth=1&animation=fadeIn" width="100%" />
 </p>
 
 <div align="center">
@@ -80,7 +80,7 @@
 <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/neon-divider.svg" width="100%" alt="divider" />
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,60:00ff41,100:9d00ff&height=60&text=%3E_%20N%C3%8DVEL%20DE%20DOMÍNIO%20%2F%2F%20SKILLS&fontSize=20&fontColor=ffffff&stroke=00ff41&strokeWidth=1&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,60:00ff41,100:9d00ff&height=60&text=%3E_%20SKILL%20LEVEL%20%2F%2F%20PROFICIENCY&fontSize=20&fontColor=ffffff&stroke=00ff41&strokeWidth=1&animation=fadeIn" width="100%" />
 </p>
 
 <div align="center">
@@ -90,26 +90,26 @@
 <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/neon-divider.svg" width="100%" alt="divider" />
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,60:9d00ff,100:00ff41&height=60&text=%3E_%20CHAVES%20DE%20ACESSO%20%2F%2F%20CERTIFICAÇÕES&fontSize=20&fontColor=ffffff&stroke=9d00ff&strokeWidth=1&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,60:9d00ff,100:00ff41&height=60&text=%3E_%20ACCESS%20KEYS%20%2F%2F%20CERTIFICATIONS&fontSize=20&fontColor=ffffff&stroke=9d00ff&strokeWidth=1&animation=fadeIn" width="100%" />
 </p>
 
 <div align="center">
 
-![Chave 1](https://img.shields.io/badge/CHAVE_01-nome_da_certificação-0d0d0d?style=for-the-badge&labelColor=000000&color=00ff41)
-![Chave 2](https://img.shields.io/badge/CHAVE_02-nome_da_certificação-0d0d0d?style=for-the-badge&labelColor=000000&color=9d00ff)
-![Chave 3](https://img.shields.io/badge/CHAVE_03-nome_da_certificação-0d0d0d?style=for-the-badge&labelColor=000000&color=00ff41)
+![Key 1](https://img.shields.io/badge/KEY_01-certification_name-0d0d0d?style=for-the-badge&labelColor=000000&color=00ff41)
+![Key 2](https://img.shields.io/badge/KEY_02-certification_name-0d0d0d?style=for-the-badge&labelColor=000000&color=9d00ff)
+![Key 3](https://img.shields.io/badge/KEY_03-certification_name-0d0d0d?style=for-the-badge&labelColor=000000&color=00ff41)
 
 </div>
 
 <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/neon-divider.svg" width="100%" alt="divider" />
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,60:00ff41,100:9d00ff&height=60&text=%3E_%20REDE%20NEURAL%20%2F%2F%20MONITOR%20DE%20ATIVIDADE&fontSize=20&fontColor=ffffff&stroke=00ff41&strokeWidth=1&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,60:00ff41,100:9d00ff&height=60&text=%3E_%20NEURAL%20NETWORK%20%2F%2F%20ACTIVITY%20MONITOR&fontSize=20&fontColor=ffffff&stroke=00ff41&strokeWidth=1&animation=fadeIn" width="100%" />
 </p>
 
 ```ansi
-[LOG] Rastreando padrão de commits nos últimos 365 dias...
-[OK ] Visualização em tempo real habilitada
+[LOG] Tracking commit pattern over the last 365 days...
+[OK ] Real-time visualization enabled
 ```
 
 <div align="center">
@@ -125,36 +125,36 @@
 <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/neon-divider.svg" width="100%" alt="divider" />
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,60:00ff41,100:9d00ff&height=60&text=%3E_%20MISSÕES%20%2F%2F%20OPERAÇÕES%20ATIVAS&fontSize=20&fontColor=ffffff&stroke=00ff41&strokeWidth=1&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,60:00ff41,100:9d00ff&height=60&text=%3E_%20MISSIONS%20%2F%2F%20ACTIVE%20OPERATIONS&fontSize=20&fontColor=ffffff&stroke=00ff41&strokeWidth=1&animation=fadeIn" width="100%" />
 </p>
 
 ```ansi
-[LOG] Escaneando repositórios...
-[OK ] 4 operações ativas encontradas
+[LOG] Scanning repositories...
+[OK ] 4 active operations found
 ```
 
 <table align="center" cellspacing="15" cellpadding="0" border="0">
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Cm-Kauan/Clinica-de-Pacientes">
-        <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/card-op1.svg" width="100%" />
+        <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/card-op1-en.svg" width="100%" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Cm-Kauan/Agenda-Python">
-        <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/card-op2.svg" width="100%" />
+        <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/card-op2-en.svg" width="100%" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Cm-Kauan/Estudos-Java">
-        <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/card-op3.svg" width="100%" />
+        <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/card-op3-en.svg" width="100%" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Cm-Kauan/Calculado-Java">
-        <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/card-op4.svg" width="100%" />
+        <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/card-op4-en.svg" width="100%" />
       </a>
     </td>
   </tr>
@@ -165,12 +165,12 @@
 <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/neon-divider.svg" width="100%" alt="divider" />
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,60:9d00ff,100:00ff41&height=60&text=%3E_%20CANAIS%20SEGUROS%20%2F%2F%20CRIPTOGRAFADOS&fontSize=20&fontColor=ffffff&stroke=9d00ff&strokeWidth=1&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,60:9d00ff,100:00ff41&height=60&text=%3E_%20SECURE%20CHANNELS%20%2F%2F%20ENCRYPTED&fontSize=20&fontColor=ffffff&stroke=9d00ff&strokeWidth=1&animation=fadeIn" width="100%" />
 </p>
 
 ```ansi
-[LOG] Estabelecendo túneis criptografados...
-[OK ] 3 canais disponíveis — selecione um ponto de contato
+[LOG] Establishing encrypted tunnels...
+[OK ] 3 channels available — select a contact point
 ```
 
 <table align="center" cellspacing="12" cellpadding="0" border="0">
@@ -180,7 +180,7 @@
         <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,100:00ff41&height=90&width=280&text=LINKEDIN&fontSize=26&fontColor=00ff41&fontAlignY=45&animation=twinkling" />
       </a>
       <br>
-      <img src="https://img.shields.io/badge/CANAL-CRIPTOGRAFADO-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=000000" />
+      <img src="https://img.shields.io/badge/ENCRYPTED-CHANNEL-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=000000" />
     </td>
     <td align="center">
       <a href="https://discord.com/users/god.6986">
@@ -194,7 +194,7 @@
         <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,100:00ff41&height=90&width=280&text=E-MAIL&fontSize=26&fontColor=00ff41&fontAlignY=45&animation=twinkling" />
       </a>
       <br>
-      <img src="https://img.shields.io/badge/TRANSMISSÃO-SEGURA-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=000000" />
+      <img src="https://img.shields.io/badge/SECURE-TRANSMISSION-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=000000" />
     </td>
   </tr>
 </table>
@@ -204,7 +204,7 @@
 <div align="center">
 
 <details>
-<summary><b>🔒 ARQUIVO CLASSIFICADO — clique para descriptografar</b></summary>
+<summary><b>🔒 CLASSIFIED FILE — click to decrypt</b></summary>
 <br>
 
 ```ansi
@@ -212,10 +212,10 @@
 > ACCESS LEVEL VERIFIED
 > DECRYPTING...
 
-"A informação quer ser livre. O resto é só burocracia tentando
- provar o contrário." — registro pessoal, Cm-Kauan
+"Information wants to be free. The rest is just bureaucracy
+ trying to prove otherwise." — personal log, Cm-Kauan
 
-> FIM DO ARQUIVO
+> END OF FILE
 [sys@ctOS ~]$ _
 ```
 
@@ -225,7 +225,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=600&color=9D00FF&center=true&vCenter=true&width=600&lines=Aguardando+resposta+do+operador...;Uplink+seguro+estabelecido...;Todos+os+sistemas+nominais." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=600&color=9D00FF&center=true&vCenter=true&width=600&lines=Awaiting+operator+response...;Secure+uplink+established...;All+systems+nominal." alt="Typing SVG" />
 
 <div align="center">
 
@@ -235,7 +235,7 @@
 
 <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/neon-divider.svg" width="100%" alt="divider" />
 
-**"Não somos indivíduos. Somos uma ideia."** — DedSec
+**"We are not individuals. We are an idea."** — DedSec
 
 </div>
 

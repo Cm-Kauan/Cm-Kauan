@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="120" viewBox="0 0 460 120">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00ff41"/>
+      <stop offset="100%" stop-color="#9d00ff"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="458" height="118" rx="10" fill="#0d1117" stroke="url(#edge)" stroke-width="1.5"/>
+  <text x="20" y="30" font-family="monospace" font-size="11" fill="#9d00ff" letter-spacing="1">OPERAÇÃO_03</text>
+  <text x="20" y="55" font-family="'Segoe UI', monospace" font-size="18" font-weight="bold" fill="#00ff41">Estudos-Java</text>
+  <text x="20" y="80" font-family="monospace" font-size="12.5" fill="#c9d1d9">laboratório de estudos em Java</text>
+  <circle cx="24" cy="100" r="5" fill="#b07219"/>
+  <text x="36" y="104" font-family="monospace" font-size="12" fill="#8b949e">Java</text>
+</svg>

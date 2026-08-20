@@ -95,18 +95,6 @@
 <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/neon-divider.svg" width="100%" alt="divider" />
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,60:9d00ff,100:00ff41&height=60&text=%3E_%20TROFÉUS%20DE%20INVASÃO&fontSize=20&fontColor=ffffff&stroke=9d00ff&strokeWidth=1&animation=fadeIn" width="100%" />
-</p>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Cm-Kauan&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/neon-divider.svg" width="100%" alt="divider" />
-
-<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,60:00ff41,100:9d00ff&height=60&text=%3E_%20MISSÕES%20%2F%2F%20OPERAÇÕES%20ATIVAS&fontSize=20&fontColor=ffffff&stroke=00ff41&strokeWidth=1&animation=fadeIn" width="100%" />
 </p>
 
@@ -119,33 +107,25 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Cm-Kauan/Clinica-de-Pacientes">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cm-Kauan&repo=Clinica-de-Pacientes&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=9d00ff&text_color=c9d1d9&border_color=00ff41" width="100%" />
+        <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/card-op1.svg" width="100%" />
       </a>
-      <br>
-      <code>&gt; OPERAÇÃO_01 :: sistema de gestão de pacientes em Java</code>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Cm-Kauan/Agenda-Python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cm-Kauan&repo=Agenda-Python&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=9d00ff&text_color=c9d1d9&border_color=00ff41" width="100%" />
+        <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/card-op2.svg" width="100%" />
       </a>
-      <br>
-      <code>&gt; OPERAÇÃO_02 :: agenda/agendamento full-stack</code>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Cm-Kauan/Estudos-Java">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cm-Kauan&repo=Estudos-Java&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=9d00ff&text_color=c9d1d9&border_color=00ff41" width="100%" />
+        <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/card-op3.svg" width="100%" />
       </a>
-      <br>
-      <code>&gt; OPERAÇÃO_03 :: laboratório de estudos em Java</code>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Cm-Kauan/Calculado-Java">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cm-Kauan&repo=Calculado-Java&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=9d00ff&text_color=c9d1d9&border_color=00ff41" width="100%" />
+        <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/card-op4.svg" width="100%" />
       </a>
-      <br>
-      <code>&gt; OPERAÇÃO_04 :: calculadora em Java</code>
     </td>
   </tr>
 </table>

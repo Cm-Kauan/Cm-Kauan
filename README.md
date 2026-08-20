@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a3d1a,100:00ff41&height=220&section=header&text=DEDSEC%20//%20ctOS%20BREACH&fontSize=38&fontColor=00ff41&fontAlignY=38&animation=twinkling&desc=SYSTEM%20INFILTRATION%20SUCCESSFUL&descAlignY=58&descSize=16" width="100%" />
+
 ```
  ██████╗████████╗ ██████╗ ███████╗    ██╗   ██╗██████╗ 
 ██╔════╝╚══██╔══╝██╔═══██╗██╔════╝    ██║   ██║╚════██╗
@@ -81,6 +83,37 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
+## `>_` REDE NEURAL // MONITOR DE ATIVIDADE
+
+```ansi
+[LOG] Rastreando padrão de commits nos últimos 365 dias...
+[OK ] Visualização em tempo real habilitada
+```
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+> `[!] NOTA:` Esta animação é gerada automaticamente por uma GitHub Action (`.github/workflows/snake.yml`) a partir do seu histórico real de commits. Ela roda sozinha após o primeiro push/merge no branch `main` — o snake "devora" seus quadrados de contribuição.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## `>_` TROFÉUS DE INVASÃO
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Cm-Kauan&theme=dracula&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 ## `>_` MISSÕES // OPERAÇÕES ATIVAS
 
 ```ansi
@@ -128,3 +161,5 @@
 **"Não somos indivíduos. Somos uma ideia."** — DedSec
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:1a3d1a,100:0d0d0d&height=120&section=footer" width="100%" />

@@ -24,22 +24,9 @@
 
 <br>
 
-```ansi
-[sys@ctOS ~]$ whoami --decrypt
-> ACCESSING USER DATA: Cm-Kauan
-> LOCATION.......: [ REDACTED ]
-> ROLE...........: Full-Stack Developer // Digital Operative
-> AFFILIATION....: DedSec Collective
-> STATUS.........: [ CONNECTED ]
-> CLEARANCE......: ROOT
-[sys@ctOS ~]$ neofetch --hacker
-> OS.............: DedSec_OS v3.1 (ctOS override)
-> SHELL..........: ctos-bash
-> UPTIME.........: 24/7 :: sempre online
-> THREAT LEVEL...: ██████████ MÁXIMO
-> LANGUAGES......: JavaScript · TypeScript · Python · Java
-[sys@ctOS ~]$ _
-```
+<div align="center">
+<img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/boot-sequence.svg" width="100%" alt="boot sequence" />
+</div>
 
 <br>
 
@@ -210,13 +197,7 @@
 
 <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/matrix-rain.svg" width="100%" alt="matrix rain" />
 
-```ansi
-[sys@ctOS ~]$ connection --terminate
-> SESSION LOG SAVED
-> DISCONNECTING FROM ctOS...
-> ██████████████████████ 100%
-> GOODBYE, OPERATIVE.
-```
+<img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/disconnect-sequence.svg" width="100%" alt="disconnect sequence" />
 
 <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/neon-divider.svg" width="100%" alt="divider" />
 

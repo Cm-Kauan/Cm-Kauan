@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="202" viewBox="0 0 820 202">
+  <defs>
+    <linearGradient id="barGrad2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#9d00ff"/>
+      <stop offset="100%" stop-color="#00ff41"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="820" height="202" rx="10" fill="#0d0d0d" stroke="#9d00ff" stroke-opacity="0.5"/>
+  <g opacity="0">
+    <text x="30" y="40" font-family="monospace" font-size="15" fill="#00ff41">[sys@ctOS ~]$ connection --terminate</text>
+    <animate attributeName="opacity" keyTimes="0;0.0056;0.9444;1" values="1;1;1;0" dur="9s" repeatCount="indefinite"/>
+  </g><g opacity="0">
+    <text x="30" y="68" font-family="monospace" font-size="15" fill="#00ff41">&gt; SESSION LOG SAVED</text>
+    <animate attributeName="opacity" keyTimes="0;0.0889;0.0944;0.9444;1" values="0;1;1;1;0" dur="9s" repeatCount="indefinite"/>
+  </g><g opacity="0">
+    <text x="30" y="96" font-family="monospace" font-size="15" fill="#9d00ff">&gt; DISCONNECTING FROM ctOS...</text>
+    <animate attributeName="opacity" keyTimes="0;0.1778;0.1833;0.9444;1" values="0;1;1;1;0" dur="9s" repeatCount="indefinite"/>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" keyTimes="0;0.2888888888888889;0.29444444444444445;0.9444444444444444;1" values="0;0;1;0;0" dur="9s" repeatCount="indefinite"/>
+    <rect x="30" y="132" width="760" height="16" fill="none" stroke="#00ff41" stroke-opacity="0.4" rx="2"/>
+    <rect x="32" y="134" height="12" fill="url(#barGrad2)" rx="1">
+      <animate attributeName="width" keyTimes="0;0.2888888888888889;0.5111111111111111;1" values="0;0;756;756" dur="9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <g opacity="0">
+    <text x="30" y="172" font-family="monospace" font-size="16" fill="#00ff41">&gt; GOODBYE, OPERATIVE.</text>
+    <animate attributeName="opacity" keyTimes="0;0.5556;0.5611;0.9444;1" values="0;1;1;1;0" dur="9s" repeatCount="indefinite"/>
+  </g>
+</svg>

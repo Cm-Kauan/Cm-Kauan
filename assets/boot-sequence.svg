@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="432" viewBox="0 0 820 432">
+  <defs>
+    <linearGradient id="barGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00ff41"/>
+      <stop offset="100%" stop-color="#9d00ff"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="820" height="432" rx="10" fill="#0d0d0d" stroke="#00ff41" stroke-opacity="0.5"/>
+  <g opacity="0">
+    <text x="30" y="34" font-family="monospace" font-size="15" fill="#00ff41">[sys@ctOS ~]$ whoami --decrypt</text>
+    <animate attributeName="opacity" keyTimes="0;0.0033;0.9667;1" values="1;1;0;0" dur="15s" repeatCount="indefinite"/>
+  </g><g opacity="0">
+    <text x="30" y="58" font-family="monospace" font-size="15" fill="#00ff41">&gt; ACCESSING USER DATA: Cm-Kauan</text>
+    <animate attributeName="opacity" keyTimes="0;0.04;0.0433;0.9667;1" values="0;1;1;0;0" dur="15s" repeatCount="indefinite"/>
+  </g><g opacity="0">
+    <text x="30" y="82" font-family="monospace" font-size="15" fill="#00ff41">&gt; LOCATION.......: [ REDACTED ]</text>
+    <animate attributeName="opacity" keyTimes="0;0.08;0.0833;0.9667;1" values="0;1;1;0;0" dur="15s" repeatCount="indefinite"/>
+  </g><g opacity="0">
+    <text x="30" y="106" font-family="monospace" font-size="15" fill="#00ff41">&gt; ROLE...........: Full-Stack Developer // Digital Operative</text>
+    <animate attributeName="opacity" keyTimes="0;0.12;0.1233;0.9667;1" values="0;0;1;0;0" dur="15s" repeatCount="indefinite"/>
+  </g><g opacity="0">
+    <text x="30" y="130" font-family="monospace" font-size="15" fill="#9d00ff">&gt; AFFILIATION....: DedSec Collective</text>
+    <animate attributeName="opacity" keyTimes="0;0.16;0.1633;0.9667;1" values="0;1;1;0;0" dur="15s" repeatCount="indefinite"/>
+  </g><g opacity="0">
+    <text x="30" y="154" font-family="monospace" font-size="15" fill="#00ff41">&gt; STATUS.........: [ CONNECTED ]</text>
+    <animate attributeName="opacity" keyTimes="0;0.2;0.2033;0.9667;1" values="0;1;1;0;0" dur="15s" repeatCount="indefinite"/>
+  </g><g opacity="0">
+    <text x="30" y="178" font-family="monospace" font-size="15" fill="#9d00ff">&gt; CLEARANCE......: ROOT</text>
+    <animate attributeName="opacity" keyTimes="0;0.24;0.2433;0.9667;1" values="0;0;1;0;0" dur="15s" repeatCount="indefinite"/>
+  </g><g opacity="0">
+    <text x="30" y="202" font-family="monospace" font-size="15" fill="#00ff41">[sys@ctOS ~]$ neofetch --hacker</text>
+    <animate attributeName="opacity" keyTimes="0;0.2933;0.2967;0.9667;1" values="0;0;1;0;0" dur="15s" repeatCount="indefinite"/>
+  </g><g opacity="0">
+    <text x="30" y="226" font-family="monospace" font-size="15" fill="#00ff41">&gt; OS.............: DedSec_OS v3.1 (ctOS override)</text>
+    <animate attributeName="opacity" keyTimes="0;0.3333;0.3367;0.9667;1" values="0;0;1;0;0" dur="15s" repeatCount="indefinite"/>
+  </g><g opacity="0">
+    <text x="30" y="250" font-family="monospace" font-size="15" fill="#00ff41">&gt; SHELL..........: ctos-bash</text>
+    <animate attributeName="opacity" keyTimes="0;0.3733;0.3767;0.9667;1" values="0;0;1;0;0" dur="15s" repeatCount="indefinite"/>
+  </g><g opacity="0">
+    <text x="30" y="274" font-family="monospace" font-size="15" fill="#9d00ff">&gt; UPTIME.........: 24/7 :: sempre online</text>
+    <animate attributeName="opacity" keyTimes="0;0.4133;0.4167;0.9667;1" values="0;0;1;0;0" dur="15s" repeatCount="indefinite"/>
+  </g><g opacity="0">
+    <text x="30" y="298" font-family="monospace" font-size="15" fill="#00ff41">&gt; THREAT LEVEL...: ██████████ MÁXIMO</text>
+    <animate attributeName="opacity" keyTimes="0;0.4533;0.4567;0.9667;1" values="0;0;1;0;0" dur="15s" repeatCount="indefinite"/>
+  </g><g opacity="0">
+    <text x="30" y="322" font-family="monospace" font-size="15" fill="#9d00ff">&gt; LANGUAGES......: JavaScript · TypeScript · Python · Java</text>
+    <animate attributeName="opacity" keyTimes="0;0.4933;0.4967;0.9667;1" values="0;0;1;0;0" dur="15s" repeatCount="indefinite"/>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" keyTimes="0;0.5733333333333334;0.5766666666666667;0.9;0.9466666666666667;1"
+      values="0;0;1;1;0;0" dur="15s" repeatCount="indefinite"/>
+    <text x="30" y="354" font-family="monospace" font-size="13" fill="#00ff41">DECRYPTING PROFILE DATA...</text>
+    <rect x="30" y="362" width="760" height="18" fill="none" stroke="#00ff41" stroke-opacity="0.4" rx="2"/>
+    <rect x="32" y="364" height="14" fill="url(#barGrad)" rx="1">
+      <animate attributeName="width" keyTimes="0;0.5733333333333334;0.7866666666666667;1" values="0;0;756;756" dur="15s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <g opacity="0">
+      <text x="790" y="354" text-anchor="end" font-family="monospace" font-size="13" fill="#9d00ff">0%</text>
+      <animate attributeName="opacity" keyTimes="0;0.5733;0.5747;0.9467;1" values="0;0;1;0;0" dur="15s" repeatCount="indefinite"/>
+    </g><g opacity="0">
+      <text x="790" y="354" text-anchor="end" font-family="monospace" font-size="13" fill="#9d00ff">15%</text>
+      <animate attributeName="opacity" keyTimes="0;0.6038;0.6051;0.9467;1" values="0;0;1;0;0" dur="15s" repeatCount="indefinite"/>
+    </g><g opacity="0">
+      <text x="790" y="354" text-anchor="end" font-family="monospace" font-size="13" fill="#9d00ff">32%</text>
+      <animate attributeName="opacity" keyTimes="0;0.6343;0.6356;0.9467;1" values="0;1;1;0;0" dur="15s" repeatCount="indefinite"/>
+    </g><g opacity="0">
+      <text x="790" y="354" text-anchor="end" font-family="monospace" font-size="13" fill="#9d00ff">51%</text>
+      <animate attributeName="opacity" keyTimes="0;0.6648;0.6661;0.9467;1" values="0;1;1;0;0" dur="15s" repeatCount="indefinite"/>
+    </g><g opacity="0">
+      <text x="790" y="354" text-anchor="end" font-family="monospace" font-size="13" fill="#9d00ff">68%</text>
+      <animate attributeName="opacity" keyTimes="0;0.6952;0.6966;0.9467;1" values="0;0;1;0;0" dur="15s" repeatCount="indefinite"/>
+    </g><g opacity="0">
+      <text x="790" y="354" text-anchor="end" font-family="monospace" font-size="13" fill="#9d00ff">84%</text>
+      <animate attributeName="opacity" keyTimes="0;0.7257;0.727;0.9467;1" values="0;0;1;0;0" dur="15s" repeatCount="indefinite"/>
+    </g><g opacity="0">
+      <text x="790" y="354" text-anchor="end" font-family="monospace" font-size="13" fill="#9d00ff">100%</text>
+      <animate attributeName="opacity" keyTimes="0;0.7562;0.7575;0.9467;1" values="0;1;1;0;0" dur="15s" repeatCount="indefinite"/>
+    </g>
+  <g>
+    <text x="30" y="407" font-family="monospace" font-size="15" fill="#00ff41">[sys@ctOS ~]$</text>
+    <rect x="145" y="394" width="9" height="16" fill="#00ff41">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.5;0.9;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

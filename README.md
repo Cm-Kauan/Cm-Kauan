@@ -19,6 +19,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Cm-Kauan&color=00ff41&style=for-the-badge&label=CONNECTIONS+TRACED&labelColor=0d0d0d)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=0d0d0d)
 ![Access](https://img.shields.io/badge/ACCESS-LEVEL_5-9d00ff?style=for-the-badge&labelColor=0d0d0d)
+![Wanted](https://img.shields.io/badge/PROCURADO_PELA_ctOS-BOUNTY%3A_∞_COMMITS-9d00ff?style=for-the-badge&labelColor=0d0d0d)
+
+![Last Commit](https://img.shields.io/github/last-commit/Cm-Kauan/Cm-Kauan?style=for-the-badge&label=ÚLTIMA%20INTRUSÃO&color=00ff41&labelColor=0d0d0d)
+![Top Language](https://img.shields.io/github/languages/top/Cm-Kauan/Cm-Kauan?style=for-the-badge&label=LINGUAGEM%20PRIMÁRIA&color=9d00ff&labelColor=0d0d0d)
 
 </div>
 
@@ -70,6 +74,31 @@
 </a>
 
 </div>
+
+<img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/neon-divider.svg" width="100%" alt="divider" />
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,60:9d00ff,100:00ff41&height=60&text=%3E_%20CHAVES%20DE%20ACESSO%20%2F%2F%20CERTIFICAÇÕES&fontSize=20&fontColor=ffffff&stroke=9d00ff&strokeWidth=1&animation=fadeIn" width="100%" />
+</p>
+
+```ansi
+[LOG] Validando credenciais criptografadas...
+[OK ] 0 chaves carregadas — aguardando upload do operador
+```
+
+<div align="center">
+
+![Chave 1](https://img.shields.io/badge/CHAVE_01-nome_da_certificação-0d0d0d?style=for-the-badge&labelColor=000000&color=00ff41)
+![Chave 2](https://img.shields.io/badge/CHAVE_02-nome_da_certificação-0d0d0d?style=for-the-badge&labelColor=000000&color=9d00ff)
+![Chave 3](https://img.shields.io/badge/CHAVE_03-nome_da_certificação-0d0d0d?style=for-the-badge&labelColor=000000&color=00ff41)
+
+</div>
+
+```ansi
+[TODO] Substitua as chaves acima pelos nomes reais das suas certificações/cursos
+[TODO] Ex: CHAVE_01-AWS_Cloud_Practitioner-0d0d0d
+[TODO] Transforme cada badge em link para o certificado, se quiser comprovar
+```
 
 <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/neon-divider.svg" width="100%" alt="divider" />
 
@@ -166,8 +195,39 @@
       <br>
       <img src="https://img.shields.io/badge/TRANSMISSÃO-SEGURA-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=000000" />
     </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/kauan-camargo/">
+        <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/qr-linkedin.png" width="90" height="90" alt="QR LinkedIn" style="border-radius:6px" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/SCAN_PARA_CONECTAR-0d0d0d?style=for-the-badge&labelColor=000000&color=00ff41" />
+    </td>
   </tr>
 </table>
+
+<br>
+
+<div align="center">
+
+<details>
+<summary><b>🔒 ARQUIVO CLASSIFICADO — clique para descriptografar</b></summary>
+<br>
+
+```ansi
+[sys@ctOS ~]$ decrypt --file classified.log
+> ACCESS LEVEL VERIFIED
+> DECRYPTING...
+
+"A informação quer ser livre. O resto é só burocracia tentando
+ provar o contrário." — registro pessoal, Cm-Kauan
+
+> FIM DO ARQUIVO
+[sys@ctOS ~]$ _
+```
+
+</details>
+
+</div>
 
 <br>
 

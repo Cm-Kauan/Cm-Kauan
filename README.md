@@ -164,19 +164,9 @@
 <table align="center" cellspacing="12" cellpadding="0" border="0">
   <tr>
     <td align="center">
-      <table cellspacing="0" cellpadding="0" border="0"><tr>
-        <td valign="middle">
-          <a href="https://www.linkedin.com/in/kauan-camargo/">
-            <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,100:00ff41&height=90&width=200&text=LINKEDIN&fontSize=24&fontColor=00ff41&fontAlignY=45&animation=twinkling" />
-          </a>
-        </td>
-        <td width="10"></td>
-        <td valign="middle">
-          <a href="https://www.linkedin.com/in/kauan-camargo/">
-            <img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/qr-linkedin.png" width="90" height="90" alt="QR LinkedIn" />
-          </a>
-        </td>
-      </tr></table>
+      <a href="https://www.linkedin.com/in/kauan-camargo/">
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,100:00ff41&height=90&width=280&text=LINKEDIN&fontSize=26&fontColor=00ff41&fontAlignY=45&animation=twinkling" />
+      </a>
       <br>
       <img src="https://img.shields.io/badge/CANAL-CRIPTOGRAFADO-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=000000" />
     </td>

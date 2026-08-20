@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Cm-Kauan/Cm-Kauan/main/assets/matrix-rain.svg" width="100%" alt="matrix rain" />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a3d1a,100:00ff41&height=220&section=header&text=DEDSEC%20//%20ctOS%20BREACH&fontSize=38&fontColor=00ff41&fontAlignY=38&animation=twinkling&desc=SYSTEM%20INFILTRATION%20SUCCESSFUL&descAlignY=58&descSize=16" width="100%" />
 
 ```
@@ -121,18 +123,44 @@
 [OK ] 2 operações ativas encontradas
 ```
 
-<div align="center">
+<table align="center" cellspacing="15" cellpadding="0" border="0">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Cm-Kauan/SEU-REPOSITORIO-1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cm-Kauan&repo=SEU-REPOSITORIO-1&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=9d00ff&text_color=c9d1d9&border_color=00ff41" width="100%" />
+      </a>
+      <br>
+      <code>&gt; OPERAÇÃO_01 :: descrição curta do projeto aqui</code>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Cm-Kauan/SEU-REPOSITORIO-2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cm-Kauan&repo=SEU-REPOSITORIO-2&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=9d00ff&text_color=c9d1d9&border_color=00ff41" width="100%" />
+      </a>
+      <br>
+      <code>&gt; OPERAÇÃO_02 :: descrição curta do projeto aqui</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Cm-Kauan/SEU-REPOSITORIO-3">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cm-Kauan&repo=SEU-REPOSITORIO-3&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=9d00ff&text_color=c9d1d9&border_color=00ff41" width="100%" />
+      </a>
+      <br>
+      <code>&gt; OPERAÇÃO_03 :: descrição curta do projeto aqui</code>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Cm-Kauan/SEU-REPOSITORIO-4">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cm-Kauan&repo=SEU-REPOSITORIO-4&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=9d00ff&text_color=c9d1d9&border_color=00ff41" width="100%" />
+      </a>
+      <br>
+      <code>&gt; OPERAÇÃO_04 :: descrição curta do projeto aqui</code>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/Cm-Kauan?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Cm-Kauan&repo=SEU-REPOSITORIO-1&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=9d00ff&text_color=c9d1d9&border_color=00ff41" width="48%" />
-</a>
-<a href="https://github.com/Cm-Kauan?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Cm-Kauan&repo=SEU-REPOSITORIO-2&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=9d00ff&text_color=c9d1d9&border_color=00ff41" width="48%" />
-</a>
+<br>
 
-</div>
-
-> `[!] TIP:` Troque `SEU-REPOSITORIO-1` / `SEU-REPOSITORIO-2` pelo nome exato dos seus repositórios em destaque.
+> `[!] TIP:` Troque `SEU-REPOSITORIO-1` a `SEU-REPOSITORIO-4` pelos nomes exatos dos seus repositórios em destaque (pode remover linhas da tabela se tiver menos de 4).
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
